@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.SingleResponsibility", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{B342B688-8EC0-417F-A36B-AC86653BE346}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.OpenClose", "2.OpenClose", "{9B9EC392-BF91-4F53-8AE9-7F0D97BF0DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrinciple", "OpenClosePrinciple\OpenClosePrinciple.csproj", "{404FCF98-4547-4DFF-883C-FE4947C6699F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{B342B688-8EC0-417F-A36B-AC86653BE346}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B342B688-8EC0-417F-A36B-AC86653BE346}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B342B688-8EC0-417F-A36B-AC86653BE346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404FCF98-4547-4DFF-883C-FE4947C6699F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404FCF98-4547-4DFF-883C-FE4947C6699F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404FCF98-4547-4DFF-883C-FE4947C6699F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404FCF98-4547-4DFF-883C-FE4947C6699F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B342B688-8EC0-417F-A36B-AC86653BE346} = {D6026ABE-0F98-40D8-941A-8FEDEFA2B57A}
+		{404FCF98-4547-4DFF-883C-FE4947C6699F} = {9B9EC392-BF91-4F53-8AE9-7F0D97BF0DF5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {317B146B-CEA6-4C2D-999F-C900D773D5A3}

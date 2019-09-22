@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29102.190
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.SingleResponsibility", "1.SingleResponsibility", "{D6026ABE-0F98-40D8-941A-8FEDEFA2B57A}"
 EndProject
@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrinciple", "OpenC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.LiskovSubstitution", "3.LiskovSubstitution", "{2ABE2956-A076-4278-A607-CB4842C24809}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{CB83C15C-32ED-400E-8DAF-032C8BA624EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{CB83C15C-32ED-400E-8DAF-032C8BA624EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

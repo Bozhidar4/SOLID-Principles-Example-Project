@@ -1,7 +1,0 @@
-D:\Developer\Projects\SOLID-Principles-Example-Project\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe.config
-D:\Developer\Projects\SOLID-Principles-Example-Project\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe
-D:\Developer\Projects\SOLID-Principles-Example-Project\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.pdb
-D:\Developer\Projects\SOLID-Principles-Example-Project\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.csprojAssemblyReference.cache
-D:\Developer\Projects\SOLID-Principles-Example-Project\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.csproj.CoreCompileInputs.cache
-D:\Developer\Projects\SOLID-Principles-Example-Project\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.exe
-D:\Developer\Projects\SOLID-Principles-Example-Project\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.pdb

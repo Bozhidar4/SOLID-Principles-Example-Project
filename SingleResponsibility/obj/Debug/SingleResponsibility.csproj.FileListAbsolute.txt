@@ -1,7 +1,0 @@
-D:\Developer\Projects\SOLID-Principles-Example-Project\SingleResponsibility\bin\Debug\SingleResponsibility.exe.config
-D:\Developer\Projects\SOLID-Principles-Example-Project\SingleResponsibility\bin\Debug\SingleResponsibility.exe
-D:\Developer\Projects\SOLID-Principles-Example-Project\SingleResponsibility\bin\Debug\SingleResponsibility.pdb
-D:\Developer\Projects\SOLID-Principles-Example-Project\SingleResponsibility\obj\Debug\SingleResponsibility.csprojAssemblyReference.cache
-D:\Developer\Projects\SOLID-Principles-Example-Project\SingleResponsibility\obj\Debug\SingleResponsibility.csproj.CoreCompileInputs.cache
-D:\Developer\Projects\SOLID-Principles-Example-Project\SingleResponsibility\obj\Debug\SingleResponsibility.exe
-D:\Developer\Projects\SOLID-Principles-Example-Project\SingleResponsibility\obj\Debug\SingleResponsibility.pdb

@@ -1,7 +1,0 @@
-D:\Developer\Projects\SOLID-Principles-Example-Project\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
-D:\Developer\Projects\SOLID-Principles-Example-Project\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
-D:\Developer\Projects\SOLID-Principles-Example-Project\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
-D:\Developer\Projects\SOLID-Principles-Example-Project\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csprojAssemblyReference.cache
-D:\Developer\Projects\SOLID-Principles-Example-Project\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
-D:\Developer\Projects\SOLID-Principles-Example-Project\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
-D:\Developer\Projects\SOLID-Principles-Example-Project\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb
